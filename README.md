@@ -12,7 +12,7 @@
 
 💞️ I’m looking to collaborate on Projects
 
-📫 Let's Connect: Interested in collaboration, mentorship, or just chatting about code? Feel free to reach out! 📧 aarushi312004@example.com| 🔗 | 🐦 
+📫 Let's Connect: Interested in collaboration, mentorship, or just chatting about code? Feel free to reach out! 📧 aarushi312004@example.com| 🔗https://www.linkedin.com/in/aarushidaksh/ | 🐦 https://twitter.com/aaxxshi/
 
 🚧 Currently Building: web development.
 
