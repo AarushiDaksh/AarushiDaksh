@@ -3,9 +3,8 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500" height="450">
 </p>
 <h1 align="center">Hi👋🏻🤖, I'm Aarushi</h1>
-<h3 align="center">A curious BOT!🫨</h3>
-<br>
 <h3 align="center">👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h3>
+<br>
 <p align="center">
   🚀 Tech Enthusiast | 🌐 Full Stack Developer | 🛠️ Java, Python, React, Node, Express, HTML5, CSS3, Js | 🌱 Lifelong Learner | 💞️ Always ready to collaborate!
 </p>
