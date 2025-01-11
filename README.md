@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500" height="450">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500" height="400">
 </p>
 <h1 align="center">Hi👋🏻🤖, I'm Aarushi</h1>
 <h3 align="center">👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h3>
@@ -53,7 +53,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Aarushi's GitHub Stats" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Aarushi's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=radical&hide_border=true" alt="Aarushi's Streak Stats" width="48%" />
 </p>
 
