@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500">
+</p>
+
+
+<p align="center">
+  <img src="gif.gif" width="500">
+</p>
 👋 Hello World! I'm Aarushi , a passionate web developer on a journey to turn ideas into elegant solutions. 💻✨
 
 🚀 Tech Enthusiast: Always exploring the latest technologies and frameworks to stay ahead in the ever-evolving world of software development.
