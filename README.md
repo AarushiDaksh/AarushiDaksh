@@ -12,7 +12,11 @@
 </p>
 
 -> Reachable at **aarushi312004@gmail.com**
-
+<p align="left">
+  <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/code-it-break-it.svg" alt="Code it, Break it Badge" />
+  </a>
+</p>
 -> Languages and tools
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
