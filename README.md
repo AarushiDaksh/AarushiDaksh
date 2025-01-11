@@ -4,8 +4,7 @@
 </p>
 <h1 align="center">Hi👋🏻🤖, I'm Aarushi</h1>
 <h3 align="center">A curious BOT!🫨</h3>
-<br><br>
-
+<br>
 <h3 align="center">👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h3>
 <p align="center">
   🚀 Tech Enthusiast | 🌐 Full Stack Developer | 🛠️ Java, Python, React, Node, Express, HTML5, CSS3, Js | 🌱 Lifelong Learner | 💞️ Always ready to collaborate!
@@ -41,9 +40,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="50">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="50">
 </div>
-<br><br
 <h3 align="left">->Connect with me :</h3>
-<br>
 <p align="left">
 <a href="https://twitter.com/aaxxshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhanshusr007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aarushidaksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshusr007" height="30" width="40" /></a>
@@ -51,12 +48,13 @@
 <a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudhanshusr007" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sudhanshusr007" height="30" width="40" /></a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300">
-<br><br>
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Aarushi's GitHub Stats" width="48%" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300"> -->
+  <img src="gif.gif" width="500">
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Aarushi's GitHub Stats" width="48%" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=radical&hide_border=true" alt="Aarushi's Streak Stats" width="48%" />
 </p>
 
