@@ -54,7 +54,8 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Aarushi's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=radical&hide_border=true" alt="Aarushi's Streak Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=radical&hide_border=true" alt="Aarushi's Streak Stats" style="width: 100%;" />
+
 
 </p>
 
