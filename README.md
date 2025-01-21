@@ -1,5 +1,6 @@
 <p>
-  <img scr = "download (2).jpeg" />
+  <img src="banner.jpeg" alt="GitHub Banner" width="100%" height="200"  />
+
 </p>
 
 <h2 align="left">Hi 👋! My name is Aarushi <br>👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h2>
