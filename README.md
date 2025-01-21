@@ -1,3 +1,7 @@
+<p>
+  <img scr = "download (2).jpeg" />
+</p>
+
 <h2 align="left">Hi 👋! My name is Aarushi <br>👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h2>
 
 ###
