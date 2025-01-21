@@ -53,6 +53,7 @@
 ###
 
 <br clear="both">
+![Snake Animation](https://raw.githubusercontent.com/<AarushiDaksh>/<AarushiDaksh>/output/snake.svg)
 
 <img src="https://raw.githubusercontent.com/AarushiDaksh/AarushiDaksh/output/snake.svg" alt="Snake animation" />
 
