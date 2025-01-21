@@ -3,7 +3,7 @@
 
 </p>
 
-<h2 align="center">Hi 👋! My name is Aarushi <br>👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h2>
+<h2 align="center">Hi 👋! I'm Aarushi <br>👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h2>
 
 ###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AarushiDaksh" alt="AarushiDaksh" /></a> </p>
