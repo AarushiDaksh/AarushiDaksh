@@ -1,9 +1,9 @@
 <p>
-  <img src="bannerA.jpeg" alt="GitHub Banner" width="100%" height="200"  />
+  <img src="banner.png" alt="GitHub Banner" width="100%"  />
 
 </p>
 
-<h2 align="center">Hi 👋! I'm Aarushi <br>👋🏻🫀A passionate full-stack developer turning ideas into elegant solutions. 💻✨</h2>
+<h2 align="center">👋🏻A passionate developer and Tech Enthusiast. 💻✨</h2>
 
 ###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AarushiDaksh" alt="AarushiDaksh" /></a> </p>
