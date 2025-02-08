@@ -3,7 +3,7 @@
 
 </p>
 
-<h2 align="center">👋🏻A passionate developer and Tech Enthusiast. 💻✨</h2>
+<h2 align="center">👋🏻A passionate developer and tech enthusiast. 💻✨</h2>
 
 ###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AarushiDaksh" alt="AarushiDaksh" /></a> </p>
