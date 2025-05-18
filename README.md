@@ -1,7 +1,8 @@
-<p>
-  <img src="banner.png" alt="GitHub Banner" width="100%"  />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6bfded0d-de25-4740-879d-1e31176c1fe2" alt="WhatsApp Preview" style="width: 100%; max-width: 800px; height: auto;" />
 </p>
+
 
 <h2 align="center">👋🏻A passionate developer and tech enthusiast. 💻✨</h2>
 
