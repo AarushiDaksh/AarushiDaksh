@@ -3,7 +3,9 @@
   <img src="https://github.com/user-attachments/assets/6bfded0d-de25-4740-879d-1e31176c1fe2" alt="WhatsApp Preview" style="width: 100%; max-width: 800px; height: auto;" />
 </p>
 
-
+<p align="center">
+  <img src="/a1.gif" alt="Git Workflow Demo" style="width: 100%; max-width: 600px; height: auto;" />
+</p>
 <h2 align="center">👋🏻A passionate developer and tech enthusiast. 💻✨</h2>
 
 ###
