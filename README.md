@@ -4,9 +4,7 @@
 </p>
 
 
-<p align="center">
-  <img src="/a1.gif" alt="Git Workflow Demo" width="100%" height="240px" />
-</p>
+
 
 <!-- 🏆 GitHub Trophies -->
 <p align="center">
