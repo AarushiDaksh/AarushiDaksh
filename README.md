@@ -87,8 +87,6 @@
 
 - 🎯 [**StuGig**](https://stu-gig.vercel.app) – AI-matched student freelance platform
 - 🤝 [**SkillSwap**](https://skill-swap-fawn.vercel.app) – Peer-to-peer skill exchange app
-- 🔗 [**LinkPilot**](https://github.com/AarushiDaksh/LinkPilot) – LinkedIn-style student connector
-
 ---
 
 ## 🐍 Contributions Activity
