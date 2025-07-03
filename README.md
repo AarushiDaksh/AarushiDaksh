@@ -46,11 +46,6 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark badge" width="100" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw badge" width="100" />
 </p>
-
-- 🎉 **YOLO** – Took bold steps and created a public repository with your first commit!
-- 🦈 **Pull Shark** – Successfully merged pull requests and contributed to open-source projects.
-- 🤠 **Quickdraw** – Opened an issue or PR within 5 minutes of account creation. Fast and fearless!
-
 ---
 
 
