@@ -2,7 +2,7 @@
 
 <!-- 🎉 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi+Daksh;Full+Stack+Developer+%7C+Open+Source+Contributor;Let's+Build+Something+Extraordinary!" alt="Typing animation saying Hi, I'm Aarushi Daksh - Full Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi+Daksh;Full+Stack+Developer;Let's+Build+Something+Extraordinary!" alt="Typing animation saying Hi, I'm Aarushi Daksh - Full Stack Developer" />
 </p>
 
 ---
