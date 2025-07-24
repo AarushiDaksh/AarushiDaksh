@@ -13,7 +13,7 @@
 - 🚀 Passionate about building scalable full-stack applications
 - 💬 Ask me about JavaScript, React, Next.js, ReactNative, or ThreeJs
 - 🛠 Currently working on: **StuGig**, a student freelance gig platform
-- 🌐 Portfolio: [aarushidaksh.fyi](https://aarushi-portfolio-rouge.vercel.app/)
+- 🌐 Portfolio: [aarushi.cloud](https://www.aarushi.cloud/)
 
 ---
 
