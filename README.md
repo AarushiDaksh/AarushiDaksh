@@ -11,64 +11,63 @@
 
 - 🎓 CSE Student @ Bennett University (BU'26)
 - 🚀 Passionate about building scalable full-stack applications
-- 💬 Ask me about JavaScript, React, Next.js, ReactNative, or ThreeJs
+- 💬 Ask me about JavaScript, React, Next.js, React Native, or Three.js
 - 🛠 Currently working on: **StuGig**, a student freelance gig platform
 - 🌐 Portfolio: [aarushi.cloud](https://www.aarushi.cloud/)
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AarushiDaksh&theme=dracula&margin-w=10&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AarushiDaksh&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushiDaksh&layout=compact&langs_count=6&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=radical&border_radius=10" height="180" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Profile Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AarushiDaksh&layout=compact&langs_count=6&theme=dracula" height="160" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=dracula" height="160" alt="GitHub Streak" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO badge" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark badge" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw badge" width="90" />
 </p>
 
 ---
-
----
-
-## 🏅Profile Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO badge" width="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark badge" width="100" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw badge" width="100" />
-</p>
----
-
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
@@ -80,11 +79,12 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 [**StuGig**](https://stu-gig.vercel.app) – AI-matched student freelance platform
-- 🤝 [**SkillSwap**](https://skill-swap-fawn.vercel.app) – Peer-to-peer skill exchange app
+- 🎯 [**StuGig**](https://stu-gig.vercel.app) – AI-matched student freelance platform  
+- 🤝 [**SkillSwap**](https://skill-swap-fawn.vercel.app) – Peer-to-peer skill exchange app  
+
 ---
 
-## 🐍 Contributions Activity
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AarushiDaksh/AarushiDaksh/output/snake.svg" alt="Contribution Snake" />
