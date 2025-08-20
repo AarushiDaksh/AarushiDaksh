@@ -2,21 +2,22 @@
 
 <!-- 🎉 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi+Daksh;Full+Stack+Developer;Let's+Build+Something+Extraordinary!" alt="Typing animation saying Hi, I'm Aarushi Daksh - Full Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ff0055,ff7e00,f9c80e,43bccd,6a00f4&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi+Daksh;Full+Stack+Developer;Let's+Build+Something+Extraordinary!" alt="Typing animation with gradient effect" />
 </p>
+
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 CSE Student @ Bennett University (BU'26)
 - 🚀 Passionate about building scalable full-stack applications
 - 💬 Ask me about JavaScript, React, Next.js, React Native, or Three.js
-- 🌐 Portfolio: [aarushi.cloud](https://www.aarushi.cloud/)
+-    Portfolio: [aarushi.cloud](https://www.aarushi.cloud/)
 
 ---
 
-## 🏆 GitHub Achievements & Stats
+## GitHub Stats
 
 <p align="center">
   <!-- GitHub Trophies -->
@@ -36,7 +37,7 @@
 
 ---
 
-## 🏅 Profile Badges
+## 🏅 Badges
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO badge" width="90" />
@@ -46,7 +47,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -61,29 +62,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
-
 ---
 
-## 🌐 Connect with Me
+## Featured Projects
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+-  [**StuGig**](https://stu-gig.vercel.app) – AI-matched student freelance platform  
+-  [**SkillSwap**](https://skill-swap-fawn.vercel.app) – Peer-to-peer skill exchange app  
 
 ---
-
-## 🚀 Featured Projects
-
-- 🎯 [**StuGig**](https://stu-gig.vercel.app) – AI-matched student freelance platform  
-- 🤝 [**SkillSwap**](https://skill-swap-fawn.vercel.app) – Peer-to-peer skill exchange app  
-
----
-
-## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AarushiDaksh/AarushiDaksh/output/snake.svg" alt="Contribution Snake" />
@@ -91,7 +77,7 @@
 
 ---
 
-## ✨ Just for Fun
+## ✨ 
 
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Just for fun GIF" />
