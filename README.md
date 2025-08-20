@@ -13,7 +13,7 @@
 - 🎓 CSE Student @ Bennett University (BU'26)
 - 🚀 Passionate about building scalable full-stack applications
 - 💬 Ask me about JavaScript, React, Next.js, React Native, or Three.js
--    Portfolio: [aarushi.cloud](https://www.aarushi.cloud/)
+-    Portfolio: [aarushi.7cloud](https://www.aarushi.cloud/)
 
 ---
 
