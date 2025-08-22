@@ -8,7 +8,7 @@
 </p>
 
 💬 Ask me about **JavaScript, React, Next.js, React Native, or Three.js**  
-🌐 Portfolio: [aarushi.7cloud](https://www.aarushi.cloud/)
+🐞 Portfolio: [aarushi.7cloud](https://www.aarushi.cloud/)
 
 ---
 
