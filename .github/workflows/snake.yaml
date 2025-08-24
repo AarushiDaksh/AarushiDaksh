@@ -1,4 +1,4 @@
-name: 🐍 Contribution Snake — Pink
+name: Contribution Snake — Multi Themes
 
 on:
   schedule:
@@ -16,14 +16,35 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate pink snake.svg
+      - name: Generate snake (Pink)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=ff69b4
+            dist/snake-pink.svg?palette=github-dark&color_snake=ff69b4
 
-      - name: Push snake.svg to the output branch
+      - name: Generate snake (Blue Neon)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-blue.svg?palette=github-dark&color_snake=00f7ff
+
+      - name: Generate snake (Green Matrix)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-green.svg?palette=github-dark&color_snake=39ff14
+
+      - name: Generate snake (Sunset Orange)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-orange.svg?palette=github-dark&color_snake=ff4500
+
+      - name: Push snake.svg files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
