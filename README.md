@@ -42,6 +42,11 @@
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBg=true&lineCount=3&theme=dark&line1=javascript,Javascript,f7df1e;typescript,Typescript,3178c6;react,React,61dafb;nextdotjs,Next.js,000000&line2=reactnative,React%20Native,20232a;threejs,Three.js,000000;tailwindcss,Tailwind,06b6d4;bootstrap,Bootstrap,7952b3&line3=node.js,Node.js,339933;express,Express,000000;mongodb,MongoDB,47a248;docker,Docker,2496ed" alt="Tech Stack Card" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AarushiDaksh/AarushiDaksh/output/snake-blue-dark.svg" alt="Contribution Snake" />
+</p>
 
 
 
