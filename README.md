@@ -1,33 +1,33 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,100:6a00f4&height=200&section=header&text=Aarushi%20Daksh&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=200&section=header&text=Aarushi%20Daksh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ff0055,ff7e00,f9c80e,43bccd,6a00f4&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi+Daksh;Full+Stack+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=64ffda&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi;Full+Stack+Developer" alt="Typing animation" />
 </p>
+
 <p align="center">
   <img width="438" height="343" alt="image" src="https://github.com/user-attachments/assets/cb9ca289-dd12-4d46-b5ba-034652cee1ab" />
 </p>
 
 💬 Ask me about **JavaScript, React, Next.js, React Native, or Three.js**  
-Meet my twin: [aarushi.7cloud](https://www.aarushi.cloud/) 
+🌐 Meet my twin: [aarushi.cloud](https://www.aarushi.cloud/)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushiDaksh&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushiDaksh&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Profile%20Views&color=ff0055&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Profile%20Views&color=0a192f&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarushiDaksh&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarushiDaksh&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
@@ -35,5 +35,5 @@ Meet my twin: [aarushi.7cloud](https://www.aarushi.cloud/)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:ff0055&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0a192f&height=120&section=footer" alt="Footer" />
 </p>
