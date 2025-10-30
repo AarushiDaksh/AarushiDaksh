@@ -38,9 +38,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarushiDaksh&theme=tokyonight" alt="Profile Details" />
 </p>
 
+
+
+### Tech Stack
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&showBg=true&lineCount=3&theme=dark&line1=javascript,Javascript,f7df1e;typescript,Typescript,3178c6;react,React,61dafb;nextdotjs,Next.js,000000&line2=reactnative,React%20Native,20232a;threejs,Three.js,000000;tailwindcss,Tailwind,06b6d4;bootstrap,Bootstrap,7952b3&line3=node.js,Node.js,339933;express,Express,000000;mongodb,MongoDB,47a248;docker,Docker,2496ed" alt="Tech Stack Card" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
+
 
 ---
 
