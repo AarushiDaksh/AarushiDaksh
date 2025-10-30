@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=64ffda&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi;Full+Stack+Developer" alt="Typing animation" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="438" height="343" alt="image" src="https://github.com/user-attachments/assets/cb9ca289-dd12-4d46-b5ba-034652cee1ab" />
-</p>
+</p> -->
 
 
 
