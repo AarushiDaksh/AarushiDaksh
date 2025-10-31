@@ -1,4 +1,4 @@
-name: 🐍 Contribution Snake — Multi Themes
+name: 🐍 Contribution Snake — Yellow Multi Themes
 
 on:
   schedule:
@@ -16,37 +16,37 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Pink (light & dark)
+      - name: Generate Yellow (light & dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-pink-dark.svg?palette=github-dark&color_snake=ff69b4
-            dist/snake-pink-light.svg?palette=github-light&color_snake=ff69b4
+            dist/snake-yellow-dark.svg?palette=github-dark&color_snake=FFD700    # Gold
+            dist/snake-yellow-light.svg?palette=github-light&color_snake=FFC300  # Bright Yellow
 
-      - name: Generate Blue (light & dark)
+      - name: Generate Amber (light & dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-blue-dark.svg?palette=github-dark&color_snake=00f7ff
-            dist/snake-blue-light.svg?palette=github-light&color_snake=00c4ff
+            dist/snake-amber-dark.svg?palette=github-dark&color_snake=FFB000     # Deep Amber
+            dist/snake-amber-light.svg?palette=github-light&color_snake=FFE55C   # Soft Lemon
 
-      - name: Generate Green (light & dark)
+      - name: Generate Goldenrod (light & dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-green-dark.svg?palette=github-dark&color_snake=39ff14
-            dist/snake-green-light.svg?palette=github-light&color_snake=008000
+            dist/snake-goldenrod-dark.svg?palette=github-dark&color_snake=DAA520  # Goldenrod
+            dist/snake-goldenrod-light.svg?palette=github-light&color_snake=FFD966 # Pale Gold
 
-      - name: Generate Orange (light & dark)
+      - name: Generate Sunburst (light & dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-orange-dark.svg?palette=github-dark&color_snake=ff4500
-            dist/snake-orange-light.svg?palette=github-light&color_snake=ff7518
+            dist/snake-sunburst-dark.svg?palette=github-dark&color_snake=FFA500   # Orange-Yellow
+            dist/snake-sunburst-light.svg?palette=github-light&color_snake=FFF380 # Warm Sunlight
 
       - name: Push snake svgs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
