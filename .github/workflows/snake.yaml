@@ -1,4 +1,4 @@
-name: 🐍 Contribution Snake — Yellow Multi Themes
+name: 🐍 Contribution Snake — Yellow
 
 on:
   schedule:
@@ -16,39 +16,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Yellow (light & dark)
+      - name: Generate Yellow (single theme)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-yellow-dark.svg?palette=github-dark&color_snake=FFD700    # Gold
-            dist/snake-yellow-light.svg?palette=github-light&color_snake=FFC300  # Bright Yellow
+            dist/snake-yellow.svg?palette=github-dark&color_snake=FFD700
 
-      - name: Generate Amber (light & dark)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-amber-dark.svg?palette=github-dark&color_snake=FFB000     # Deep Amber
-            dist/snake-amber-light.svg?palette=github-light&color_snake=FFE55C   # Soft Lemon
-
-      - name: Generate Goldenrod (light & dark)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-goldenrod-dark.svg?palette=github-dark&color_snake=DAA520  # Goldenrod
-            dist/snake-goldenrod-light.svg?palette=github-light&color_snake=FFD966 # Pale Gold
-
-      - name: Generate Sunburst (light & dark)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-sunburst-dark.svg?palette=github-dark&color_snake=FFA500   # Orange-Yellow
-            dist/snake-sunburst-light.svg?palette=github-light&color_snake=FFF380 # Warm Sunlight
-
-      - name: Push snake svgs to output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
