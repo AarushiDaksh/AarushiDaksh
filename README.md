@@ -65,11 +65,7 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AarushiDaksh/AarushiDaksh/output/snake-blue-dark.svg" alt="Contribution Snake" />
-</p>
-
+![Contribution Snake](https://raw.githubusercontent.com/AarushiDaksh/AarushiDaksh/output/snake-yellow.svg)
 
 
 <p align="center">
