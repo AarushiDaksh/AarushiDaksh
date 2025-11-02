@@ -11,11 +11,11 @@
   <img width="438" height="343" alt="image" src="https://github.com/user-attachments/assets/cb9ca289-dd12-4d46-b5ba-034652cee1ab" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/e1728992-f1c8-4d2c-bbeb-0d52d8b3268c"
        alt="Aarushi Daksh"
        width="230"    
-</p>
+</p> -->
 
 
 
