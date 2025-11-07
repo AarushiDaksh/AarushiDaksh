@@ -1,4 +1,4 @@
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=200&section=header&text=Aarushi%20Daksh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
@@ -102,4 +102,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0a192f&height=120&section=footer" alt="Footer" />
 </p>
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
