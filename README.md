@@ -4,18 +4,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=64ffda&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Aarushi;Full+Stack+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=720&lines=Hi+there!+👋;I'm+Aarushi+—+Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+React+Native" alt="Typing intro" />
 </p>
 
-<!-- <p align="center">
-  <img width="438" height="343" alt="image" src="https://github.com/user-attachments/assets/cb9ca289-dd12-4d46-b5ba-034652cee1ab" />
-</p> -->
+<p align="center">
+  <a href="https://www.aarushi.cloud">🌐 Portfolio</a> •
+  <a href="mailto:aarushi312004@gmail.com">✉️ Email</a> •
+  <a href="https://leetcode.com/u/AarushiDaksh">🧩 LeetCode</a> •
+  <a href="https://github.com/AarushiDaksh">🐙 GitHub</a>
+</p>
 
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/e1728992-f1c8-4d2c-bbeb-0d52d8b3268c"
-       alt="Aarushi Daksh"
-       width="230"    
-</p> -->
+<br/>
 
 
 
