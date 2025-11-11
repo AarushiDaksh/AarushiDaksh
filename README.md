@@ -149,8 +149,10 @@
   🤝 <b>Open to collaborate</b> on cool MERN / Next.js / React projects.<br/>
   ⭐ If you like this profile, <b>give it a star</b> — it really helps!
 	<br>
+	<br>
 	<img src="https://madewithlove.now.sh/in?heart=true&colorA=%2302b3ed&colorB=%23e1a8c9" alt="Made with love in India">
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=2&section=footer" width="400" alt="Divider"/>
 </p>
