@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/9da251c0-4a28-4bd4-98db-5bd64697e6ff"
        width="100%"
        height="120"
        style="object-fit: cover; border-radius: 10px;"
        alt="Banner"/>
-</p>
+</p> -->
 <p align="center">
 	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20I'm%20Aarushi%20%20%20&l0=none&l1=a2d2ff&l2=80edff&l3=56cfe1&l4=0077b6&comment=&bg=none&frame=none"></a>
 </p>
