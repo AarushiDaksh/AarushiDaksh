@@ -39,7 +39,15 @@
     <img src="https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <br/>
+
+<p align="center" >
+  <img alt="Built with Love" src="https://img.shields.io/badge/Built%20with%20❤️-45b8d8?style=for-the-badge&logo=heart&logoColor=white" />
+	<a href="https://www.aarushi.cloud/twin"target="_blank"> 
+  <img alt="Meet My Twin" src="https://img.shields.io/badge/Meet%20My%20Twin-E10098?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+	</a>
+</p>
 
 <p align="center">
   <a href="https://aralroca.com">
@@ -48,12 +56,13 @@
 </p>
 
 <br/>
-
-<p>Full Stack Developer who loves to yap, code, and build cool things on the internet .</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=2&section=footer" width="400" alt="Divider"/>
 </p>
+
+<p>Full Stack Developer who loves to yap, code, and build cool things on the internet .</p>
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
@@ -139,4 +148,9 @@
 <p align="center">
   🤝 <b>Open to collaborate</b> on cool MERN / Next.js / React projects.<br/>
   ⭐ If you like this profile, <b>give it a star</b> — it really helps!
+	<br>
+	<img src="https://madewithlove.now.sh/in?heart=true&colorA=%2302b3ed&colorB=%23e1a8c9" alt="Made with love in India">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:112240&height=2&section=footer" width="400" alt="Divider"/>
 </p>
