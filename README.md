@@ -32,7 +32,7 @@
   <a href="mailto:aarushi312004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/AarushiDaksh" target="_blank">
+  <a href="https://leetcode.com/u/aarushidaksh05/" target="_blank">
     <img src="https://img.shields.io/badge/_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://github.com/AarushiDaksh" target="_blank">
