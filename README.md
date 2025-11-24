@@ -79,6 +79,13 @@
 🌐 Meet my twin → [aarushi.cloud](https://www.aarushi.cloud/)
 
 ---
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AarushiDaksh&theme=dracula&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&theme=tokyonight&count_private=true" height="170" />
