@@ -6,8 +6,13 @@
        alt="Banner"/>
 </p> -->
 <p align="center">
-	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20I'm%20Aarushi%20%20%20&l0=none&l1=a2d2ff&l2=80edff&l3=56cfe1&l4=0077b6&comment=&bg=none&frame=none"></a>
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" 
+      src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20I'm%20Aarushi!%20&l0=none&l1=ffb3d9&l2=ff80bf&l3=ff4da6&l4=e60073&comment=&bg=none&frame=none" />
+  </a>
 </p>
+
+
 
 <div align="center">
   <p>
