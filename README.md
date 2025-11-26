@@ -8,9 +8,11 @@
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" 
-      src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20I'm%20Aarushi!%20&l0=none&l1=ffb3d9&l2=ff80bf&l3=ff4da6&l4=e60073&comment=&bg=none&frame=none" />
+      src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20I'm%20Aarushi!%20&l0=none&l1=e0aaff&l2=c77dff&l3=9d4edd&l4=5a189a&comment=&bg=none&frame=none" />
   </a>
 </p>
+
+
 
 
 
