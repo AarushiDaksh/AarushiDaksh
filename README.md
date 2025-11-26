@@ -92,8 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushiDaksh&layout=compact&theme=tokyonight" height="170" />
 </p> -->
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Profile%20Views&color=64ffda&style=for-the-badge" alt="Profile views" />
 </p>
@@ -147,10 +145,10 @@
 
 <p align="center">
   🤝 <b>Open to collaborate</b> on cool MERN / Next.js / React projects.<br/>
-  ⭐ If you like this profile, <b>give it a star</b> — it really helps!
+  ⭐ If you like this profile, <b>give it a star</b>
 	<br>
 	<br>
-	<img src="https://madewithlove.now.sh/in?heart=true&colorA=%2302b3ed&colorB=%23e1a8c9" alt="Made with love in India">
+	
 </p>
 
 <p align="center">
