@@ -1,4 +1,4 @@
-<h2 align="center">Aarushi Daksh! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h1 align="center">Aarushi<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <!-- <h1 align="center" style="margin-bottom:0;">
   Aarushi Daksh 
