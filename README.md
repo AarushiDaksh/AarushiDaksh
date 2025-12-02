@@ -1,6 +1,8 @@
-<h1 align="center" style="margin-bottom:0;">
-  Aarushi Daksh
-</h1>
+<h2 align="center">Aarushi Daksh! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+
+<!-- <h1 align="center" style="margin-bottom:0;">
+  Aarushi Daksh 
+</h1> -->
 
 <p align="center">
   <sub><i>"Getting better every day. Staying focused. Building consistently."</i></sub>
