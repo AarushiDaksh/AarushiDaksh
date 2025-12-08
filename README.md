@@ -45,13 +45,13 @@
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Total%20Profile%20Views&color=ff4da6&style=for-the-badge" />
-</p> 
+</p>  -->
 
 ## 💗 Thanks for visiting
 
