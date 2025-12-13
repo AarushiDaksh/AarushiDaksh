@@ -153,8 +153,8 @@
 ## Thanks for visiting
 
 <p align="center">
-  <sub>Always learning. Always building. Always growing.</sub><br/>
-  <sub>If you liked something here, feel free to star, fork, or just say hi ✨</sub>
+  Always learning. Always building. Always growing.<br/>
+  If you liked something here, feel free to star, fork, or just say hi ✨
 </p>
 
 
