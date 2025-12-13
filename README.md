@@ -5,7 +5,7 @@
 </h1> -->
 
 <p align="center">
-  <sub><i>"Getting better every day. Staying focused. Building consistently."</i></sub>
+  <sub>GETTING BETTER EVERY DAY · STAYING FOCUSED · BUILDING CONSISTENTLY</sub>
 </p>
 
 
@@ -35,7 +35,7 @@
     alt="GitHub Summary Card"
     height="170"
   />
-</p> 
+</p>
 
 <!-- <p align="center">
   <img
@@ -45,13 +45,67 @@
 </p> -->
 
 
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=tokyonight" />
-</p>
+<!-- <p align="center">
+  <img
+    height="150"
+    src="https://streak-stats.demolab.com/?user=AarushiDaksh&theme=tokyonight"
+  />
+</p> -->
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Total%20Profile%20Views&color=ff4da6&style=for-the-badge" />
 </p> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
+</div>
+
+## working with
+
+![Java](https://img.shields.io/badge/Java-181717?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript)
+![Go](https://img.shields.io/badge/Go-181717?style=flat-square&logo=go)
+![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express)
+![REST APIs](https://img.shields.io/badge/REST_APIs-181717?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-181717?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-181717?style=flat-square&logo=supabase)
+![AWS](https://img.shields.io/badge/AWS_EC2_S3-181717?style=flat-square&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Prisma](https://img.shields.io/badge/Prisma-181717?style=flat-square&logo=prisma)
+![Clerk](https://img.shields.io/badge/Clerk-181717?style=flat-square)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-181717?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-181717?style=flat-square&logo=visualstudiocode)
+![Jira](https://img.shields.io/badge/Jira-181717?style=flat-square&logo=jira)
+![OOP](https://img.shields.io/badge/OOP-181717?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-181717?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-181717?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-181717?style=flat-square)
+![HLD](https://img.shields.io/badge/HLD-181717?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile/Scrum-181717?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-181717?style=flat-square)
+![Pair Programming](https://img.shields.io/badge/Pair_Programming-181717?style=flat-square)
+![Schema Design](https://img.shields.io/badge/Schema_Design-181717?style=flat-square)
+![Sitemaps](https://img.shields.io/badge/Sitemaps-181717?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-181717?style=flat-square&logo=springboot)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes)
+![English](https://img.shields.io/badge/English-Proficient-181717?style=flat-square)
+![German](https://img.shields.io/badge/German-Learning-181717?style=flat-square)<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+
+
 
 ## 💗 Thanks for visiting
 
@@ -167,7 +221,7 @@
 <!--
 <div align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-  ...
+  
 </div>
 -->
 
