@@ -1,48 +1,14 @@
 
 
-<!-- <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&text=Aarushi&fontSize=36&fontColor=f75c7e"
-    alt="Aarushi"
-  />
-</p> -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full-Stack+Developer;Learning+Spring;Exploring+Generative+AI&font=Fira+Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&pause=1200&size=22"
-    alt="Typing SVG"
-  />
-</p>
-
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@AarushiDaksh-v8w"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/aarushidaksh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/aaxxshi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/aarushi_30354" alt="Discord" title=""><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.aarushi.cloud/"><img width="32px" alt="Dev.to" title="Aarushi" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://topmate.io/aarushidaksh"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
+  <h2 align="center">Hey!
+  <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+  </h2>
 
 
 
-<!-- <h1 align="center">Aarushi<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1> -->
 
-<!-- <h1 align="center" style="margin-bottom:0;">
-  Aarushi Daksh 
-</h1> -->
 
-<!-- <p align="center">
-  <sub>GETTING BETTER EVERY DAY · STAYING FOCUSED · BUILDING CONSISTENTLY</sub>
-</p> -->
 
 
 ## Connect With Me
@@ -99,11 +65,11 @@
   />
 </p>
  
-<!-- <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
-</div> -->
+</div> 
 
 ## working with
 
@@ -148,7 +114,7 @@
 ![English](https://img.shields.io/badge/English-Proficient-181717?style=flat-square)
 ![German](https://img.shields.io/badge/German-Learning-181717?style=flat-square)<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 
-<!-- <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  -->
+ 
 
 <br>
 <br>
