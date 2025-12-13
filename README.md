@@ -150,7 +150,8 @@
 
 <!-- <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  -->
 
-## Thanks for visiting
+<br>
+<br>
 
 <p align="center">
   Always learning. Always building. Always growing.<br/>
