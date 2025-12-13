@@ -1,4 +1,40 @@
-<h1 align="center">Aarushi<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Aarushi&fontSize=36&fontColor=f75c7e"
+    alt="Aarushi"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full-Stack+Developer;Learning+Spring;Exploring+Generative+AI&font=Fira+Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&pause=1200&size=22"
+    alt="Typing SVG"
+  />
+</p>
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/AarushiDaksh-v8w"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/aarushidaksh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/aaxxshi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/aarushi_30354" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.aarushi.cloud/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+
+<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<!-- <h1 align="center">Aarushi<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1> -->
 
 <!-- <h1 align="center" style="margin-bottom:0;">
   Aarushi Daksh 
@@ -18,11 +54,11 @@
 
 
 <a href="https://www.aarushi.cloud/">
-  <img src="https://img.shields.io/badge/Portfolio-aarushi.7cloud-6a5acd?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-aarushi.7cloud-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/aarushidaksh05/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-f39c12?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-181717?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <!-- <a href="https://github.com/AarushiDaksh">
@@ -33,7 +69,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AarushiDaksh&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=AarushiDaksh&theme=dracula&hide_border=true"
     alt="GitHub Contribution Streak"
     height="170"
   />
