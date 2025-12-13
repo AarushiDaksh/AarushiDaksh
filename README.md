@@ -1,52 +1,18 @@
-
-  <h2 align="center">Hey!
-  <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-  </h2>
-<p align="center">
-  <a href="mailto:aarushi312004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF6F91?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.aarushi.cloud/">
-    <img src="https://img.shields.io/badge/Portfolio-aarushi.cloud-4D96FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/aarushidaksh05/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFC75F?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+## Hi 👋, I'm Aarushi  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushidaksh/)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.aarushi.cloud/)[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarushidaksh05/)[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarushi312004@gmail.com)
 
 
-<!-- <a href="https://github.com/AarushiDaksh">
-  <img src="https://img.shields.io/badge/GitHub-AarushiDaksh-333?style=for-the-badge&logo=github&logoColor=white" />
-</a> -->
-
-## Progress
-
-<p align="center">
+<div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AarushiDaksh&hide_border=true"
-    alt="GitHub Contribution Streak"
-    height="170"
-  />
-</p>
-
-
-
-<!-- <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Total%20Profile%20Views&color=ff4da6&style=for-the-badge"
-    alt="Total Profile Views"
-  />
-</p> -->
-
-
-<!-- <p align="center">
-  <img
+    src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
     height="150"
-    src="https://streak-stats.demolab.com/?user=AarushiDaksh&theme=tokyonight"
+    alt="GitHub stats"
+  /><img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AarushiDaksh&layout=compact&langs_count=5&hide_border=true"
+    height="150"
+    alt="Top languages"
   />
-</p> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AarushiDaksh&hide_border=false" height="150" alt="streak stats" />
+</div>
 
 
 <p align="center">
@@ -62,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
 </div> 
 
-## working with
+## Used to Code
 
 ![Java](https://img.shields.io/badge/Java-FF6F91?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC75F?style=for-the-badge&logo=javascript&logoColor=black)
@@ -105,6 +71,7 @@
 ![English](https://img.shields.io/badge/English-Proficient-C7D2FE?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-Learning-FECACA?style=for-the-badge)
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
  
 
@@ -118,7 +85,7 @@
 
 
 
-<!-- OLD README CONTENT BELOW -->
+
 
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/9da251c0-4a28-4bd4-98db-5bd64697e6ff"
