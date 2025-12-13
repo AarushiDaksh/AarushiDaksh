@@ -1,4 +1,4 @@
-## Hi 👋, I'm Aarushi  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushidaksh/)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.aarushi.cloud/)[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarushidaksh05/)[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarushi312004@gmail.com)
+## Hi 👋, I'm Aarushi  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushidaksh/)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.aarushi.cloud/)[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarushidaksh05/)[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarushi312004@gmail.com)<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=AarushiDaksh&hide_border=false" height="150" alt="streak stats" />
 </div>
 
+<br>
 
 <p align="center">
   <img
@@ -22,11 +23,11 @@
   />
 </p>
  
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
-</div> 
+</div>  -->
 
 ## Used to Code
 
@@ -70,8 +71,7 @@
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-86EFAC?style=for-the-badge&logo=springboot&logoColor=black)
 ![English](https://img.shields.io/badge/English-Proficient-C7D2FE?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-Learning-FECACA?style=for-the-badge)
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
 
  
 
