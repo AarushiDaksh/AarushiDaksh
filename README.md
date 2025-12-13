@@ -40,7 +40,7 @@ Full-stack developer exploring GenAI and scalable systems.
   />
 </p>
 <p align="center">
-  Always learning. Always building. Always growing.<br/>
+
   If you liked something here, feel free to star, fork, or just say hi 😄
 </p>
 
