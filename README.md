@@ -33,16 +33,16 @@
 </p>
 
 
-<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
 <!-- <h1 align="center">Aarushi<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1> -->
 
 <!-- <h1 align="center" style="margin-bottom:0;">
   Aarushi Daksh 
 </h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <sub>GETTING BETTER EVERY DAY · STAYING FOCUSED · BUILDING CONSISTENTLY</sub>
-</p>
+</p> -->
 
 
 ## Connect With Me
@@ -150,7 +150,7 @@
 
 
 
-## 🫢 Thanks for visiting
+## <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Thanks for visiting
 
 <p align="center">
   <sub>Always learning. Always building. Always growing.</sub><br/>
