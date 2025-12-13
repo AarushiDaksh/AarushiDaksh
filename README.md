@@ -2,21 +2,21 @@
   <h2 align="center">Hey!
   <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
   </h2>
-  <p align="center">
-<a href="mailto:aarushi312004@gmail.com">
- <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="mailto:aarushi312004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-FF6F91?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-</a>
+  <a href="https://www.aarushi.cloud/">
+    <img src="https://img.shields.io/badge/Portfolio-aarushi.cloud-4D96FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 
-
-<a href="https://www.aarushi.cloud/">
-  <img src="https://img.shields.io/badge/Portfolio-aarushi.7cloud-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/aarushidaksh05/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-181717?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+  <a href="https://leetcode.com/u/aarushidaksh05/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFC75F?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
+
+
 <!-- <a href="https://github.com/AarushiDaksh">
   <img src="https://img.shields.io/badge/GitHub-AarushiDaksh-333?style=for-the-badge&logo=github&logoColor=white" />
 </a> -->
@@ -25,11 +25,12 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AarushiDaksh&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com?user=AarushiDaksh&hide_border=true"
     alt="GitHub Contribution Streak"
     height="170"
   />
 </p>
+
 
 
 <!-- <p align="center">
@@ -63,46 +64,47 @@
 
 ## working with
 
-![Java](https://img.shields.io/badge/Java-181717?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript)
-![Go](https://img.shields.io/badge/Go-181717?style=flat-square&logo=go)
-![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express)
-![REST APIs](https://img.shields.io/badge/REST_APIs-181717?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-181717?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-181717?style=flat-square&logo=supabase)
-![AWS](https://img.shields.io/badge/AWS_EC2_S3-181717?style=flat-square&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Prisma](https://img.shields.io/badge/Prisma-181717?style=flat-square&logo=prisma)
-![Clerk](https://img.shields.io/badge/Clerk-181717?style=flat-square)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-181717?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS_Code-181717?style=flat-square&logo=visualstudiocode)
-![Jira](https://img.shields.io/badge/Jira-181717?style=flat-square&logo=jira)
-![OOP](https://img.shields.io/badge/OOP-181717?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-181717?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-181717?style=flat-square)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-181717?style=flat-square)
-![HLD](https://img.shields.io/badge/HLD-181717?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile/Scrum-181717?style=flat-square)
-![TDD](https://img.shields.io/badge/TDD-181717?style=flat-square)
-![Pair Programming](https://img.shields.io/badge/Pair_Programming-181717?style=flat-square)
-![Schema Design](https://img.shields.io/badge/Schema_Design-181717?style=flat-square)
-![Sitemaps](https://img.shields.io/badge/Sitemaps-181717?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-181717?style=flat-square&logo=springboot)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes)
-![English](https://img.shields.io/badge/English-Proficient-181717?style=flat-square)
-![German](https://img.shields.io/badge/German-Learning-181717?style=flat-square)<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+![Java](https://img.shields.io/badge/Java-FF6F91?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC75F?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-4D96FF?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-4FD1C5?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-6FE3FF?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-B5B9FF?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FF9671?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6A9CFF?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6EE7B7?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-D1D5DB?style=for-the-badge&logo=express&logoColor=black)
+![REST_APIs](https://img.shields.io/badge/REST_APIs-A5B4FC?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-7DD3FC?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-86EFAC?style=for-the-badge&logo=mongodb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-93C5FD?style=for-the-badge&logo=postgresql&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-6EE7B7?style=for-the-badge&logo=supabase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-C7D2FE?style=for-the-badge&logo=prisma&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_EC2_S3-FFD166?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FFF1A8?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-93C5FD?style=for-the-badge&logo=docker&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-A5B4FC?style=for-the-badge&logo=kubernetes&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-E5E7EB?style=for-the-badge&logo=vercel&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FCA5A5?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-D1D5DB?style=for-the-badge&logo=github&logoColor=black)
+![VS_Code](https://img.shields.io/badge/VS_Code-7DD3FC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-A5B4FC?style=for-the-badge&logo=jira&logoColor=black)
+![Thunder_Client](https://img.shields.io/badge/Thunder_Client-C4B5FD?style=for-the-badge)
+![Clerk](https://img.shields.io/badge/Clerk-E9D5FF?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FBCFE8?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-E0E7FF?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-99F6E4?style=for-the-badge)
+![Distributed_Systems](https://img.shields.io/badge/Distributed_Systems-BFDBFE?style=for-the-badge)
+![HLD](https://img.shields.io/badge/HLD-FFE4B5?style=for-the-badge)
+![Agile_Scrum](https://img.shields.io/badge/Agile_Scrum-86EFAC?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-FECACA?style=for-the-badge)
+![Pair_Programming](https://img.shields.io/badge/Pair_Programming-EAD7C3?style=for-the-badge)
+![Schema_Design](https://img.shields.io/badge/Schema_Design-D1FAE5?style=for-the-badge)
+![Sitemaps](https://img.shields.io/badge/Sitemaps-E5E7EB?style=for-the-badge)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-86EFAC?style=for-the-badge&logo=springboot&logoColor=black)
+![English](https://img.shields.io/badge/English-Proficient-C7D2FE?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Learning-FECACA?style=for-the-badge)
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 
  
 
