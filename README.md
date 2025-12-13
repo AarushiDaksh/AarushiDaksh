@@ -12,8 +12,10 @@
 ## Connect With Me
 
 <a href="mailto:aarushi312004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-ff4da6?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+
 </a>
+
 
 <a href="https://www.aarushi.cloud/">
   <img src="https://img.shields.io/badge/Portfolio-aarushi.7cloud-6a5acd?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -55,8 +57,12 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Total%20Profile%20Views&color=ff4da6&style=for-the-badge" />
-</p> 
+  <img
+    src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Total%20Profile%20Views&color=d35400&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+ 
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="160" />
@@ -108,7 +114,7 @@
 
 
 
-## 💗 Thanks for visiting
+## 🫢 Thanks for visiting
 
 <p align="center">
   <sub>Always learning. Always building. Always growing.</sub><br/>
