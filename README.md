@@ -155,7 +155,7 @@
 
 <p align="center">
   Always learning. Always building. Always growing.<br/>
-  If you liked something here, feel free to star, fork, or just say hi ✨
+  If you liked something here, feel free to star, fork, or just say hi 😄
 </p>
 
 
