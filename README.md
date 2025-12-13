@@ -1,18 +1,8 @@
 
-
-
   <h2 align="center">Hey!
   <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
   </h2>
-
-
-
-
-
-
-
-## Connect With Me
-
+  <p align="center">
 <a href="mailto:aarushi312004@gmail.com">
  <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" />
 
@@ -26,7 +16,7 @@
 <a href="https://leetcode.com/u/aarushidaksh05/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-181717?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-
+</p>
 <!-- <a href="https://github.com/AarushiDaksh">
   <img src="https://img.shields.io/badge/GitHub-AarushiDaksh-333?style=for-the-badge&logo=github&logoColor=white" />
 </a> -->
