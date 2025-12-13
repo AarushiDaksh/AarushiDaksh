@@ -148,9 +148,9 @@
 ![English](https://img.shields.io/badge/English-Proficient-181717?style=flat-square)
 ![German](https://img.shields.io/badge/German-Learning-181717?style=flat-square)<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 
+<!-- <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  -->
 
-
-## <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Thanks for visiting
+## Thanks for visiting
 
 <p align="center">
   <sub>Always learning. Always building. Always growing.</sub><br/>
