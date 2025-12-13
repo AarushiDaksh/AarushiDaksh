@@ -1,11 +1,11 @@
 
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=transparent&text=Aarushi&fontSize=36&fontColor=f75c7e"
     alt="Aarushi"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
