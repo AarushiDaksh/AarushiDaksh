@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aarushi [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushidaksh/)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.aarushi.cloud/)[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarushidaksh05/)[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarushi312004@gmail.com)
 
-Developer 
+**Developer** | Build, design & scale | Software | Frontend | Backend | GenAi   
 
 <!-- <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> -->
 
