@@ -36,10 +36,11 @@ Developer
 <br>
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Total%20Profile%20Views&color=d35400&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=AarushiDaksh&label=Profile%20Views&color=0A66C2&style=flat"
     alt="Profile Views"
   />
 </p>
+
 
 <p align="center">
   If you liked something here, feel free to star, fork, or just say hi 😄
