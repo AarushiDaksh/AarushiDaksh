@@ -28,9 +28,10 @@
 
 >
 
- <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs" /><br/>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,prisma,aws,docker,git,vercel,vscode" />
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=java,js,ts,go,react,nextjs,html,css,tailwind,nodejs,express,graphql,mongodb,postgres,supabase,prisma,aws,linux,docker,kubernetes,git,github,vercel,vscode,postman,spring"
+  />
 </p>
 
 
