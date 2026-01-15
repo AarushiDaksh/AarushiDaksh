@@ -13,6 +13,16 @@
 ![Followers](https://img.shields.io/github/followers/AarushiDaksh)
 ![Stars](https://img.shields.io/github/stars/AarushiDaksh)
 ![Repos](https://img.shields.io/badge/Public%20Repos-dynamic-blue)
+
+
+
+
+  
+</p>
+
+
+
+
 </details>
 
 <br>
@@ -43,6 +53,10 @@
   />
 </p>
 
+<p align="center">
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/aarushidaksh" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
 
 <p align="center">
   If you liked something here, feel free to star, fork, or just say hi 😄
