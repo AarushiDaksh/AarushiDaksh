@@ -9,11 +9,10 @@
   <summary><b>GitHub stats ⚡️</b></summary>
   <br/>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&count_private=true&hide_border=true" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushiDaksh&layout=compact&langs_count=6&hide_border=true" height="150"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=AarushiDaksh&hide_border=true" height="150"/>
-  </div>
+  
+![Followers](https://img.shields.io/github/followers/AarushiDaksh)
+![Stars](https://img.shields.io/github/stars/AarushiDaksh)
+![Repos](https://img.shields.io/badge/Public%20Repos-dynamic-blue)
 </details>
 
 <br>
