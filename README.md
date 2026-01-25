@@ -13,11 +13,21 @@
 ![Followers](https://img.shields.io/github/followers/AarushiDaksh)
 ![Stars](https://img.shields.io/github/stars/AarushiDaksh)
 ![Repos](https://img.shields.io/badge/Public%20Repos-dynamic-blue)
+</p>
 
-
-
-
-  
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarushiDaksh&theme=default" 
+    width="55%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AarushiDaksh&show_icons=true&locale=en" 
+    width="35%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushiDaksh&layout=compact" 
+    width="25%"
+  />
 </p>
 
 
