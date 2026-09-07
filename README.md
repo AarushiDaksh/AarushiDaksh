@@ -14,7 +14,7 @@ I build **clean interfaces, useful products, and production-ready applications.*
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,go,react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,prisma,aws,docker,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,prisma,aws,docker,git,github,vercel" />
 </p>
 
 
