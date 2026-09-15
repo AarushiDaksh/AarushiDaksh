@@ -19,19 +19,4 @@ I build **clean interfaces, useful products, and production-ready applications.*
 
 
 
-## GitHub Stats
 
-
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AarushiDaksh&theme=dark&hide_border=true"
-    width="55%"
-  />
-</p>
-
-
-
-<p align="center">
-  <b>Build. Learn. Ship. Repeat. 🚀</b>
-</p>
